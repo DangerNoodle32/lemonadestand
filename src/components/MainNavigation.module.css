@@ -1,0 +1,23 @@
+.container {
+  background-color: gray;
+  margin-bottom: 25px;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+  padding: 10px;
+  margin-left: 25px;
+}
+
+li {
+  padding: 0 20px;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.links {
+  text-decoration: none;
+  font-weight: 600;
+  color: rgb(238, 238, 63);
+}
